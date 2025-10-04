@@ -36,3 +36,10 @@ https://github.com/user-attachments/assets/f372c8d3-dcc2-4d11-8935-719c86b4813a
 
 **Script relacionado** -> [moverAPosicion.cs](./scripts/moverAPosicion.cs)
 
+6. Agrega un campo velocidad a un cubo y asígnale un valor que se pueda cambiar en el inspector de objetos. Muestra la consola el resultado de multiplicar la velocidad por el valor del eje vertical y por el valor del eje horizontal cada vez que se pulsan las teclas flecha arriba-abajo ó flecha izquierda-derecha. El mensaje debe comenzar por el nombre de la flecha pulsada.
+
+https://github.com/user-attachments/assets/0a97ec19-dc17-402d-8cab-7248e42cc944
+
+**Script relacionado** -> [campoVelocidad.cs](./scripts/campoVelocidad.cs)
+
+
