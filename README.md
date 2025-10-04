@@ -7,3 +7,16 @@ https://github.com/user-attachments/assets/f84d09e4-162b-4c96-8e67-e5d2ac3dc65a
 
 **Script relacionado** -> [randomColor.cs](./scripts/randomColor.cs)
 
+2. Crea un script asociado a la esfera con dos variables Vector3 públicas. Dale valor a cada componente de los vectores desde el inspector. Muestra en la consola:
+
+- **Magnitud de cada vector:** Muestra la magnitud de ambos vectores.
+- **Ángulo entre los vectores:** Calcula y muestra el ángulo que forman.
+- **Distancia entre los vectores:** Indica la distancia entre ambos.
+- **Comparación de altura:** Muestra un mensaje indicando cuál de los dos vectores tiene una componente Y (altura) mayor.
+
+https://github.com/user-attachments/assets/25b1e7b5-2733-4473-bb53-646211cfab31
+
+**Script relacionado** -> [vector3.cs](./scripts/vector3.cs)
+
+
+
