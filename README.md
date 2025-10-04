@@ -42,4 +42,6 @@ https://github.com/user-attachments/assets/0a97ec19-dc17-402d-8cab-7248e42cc944
 
 **Script relacionado** -> [campoVelocidad.cs](./scripts/campoVelocidad.cs)
 
+7. Mapea la tecla H a la función disparo.
 
+![MapearH](./images/mapearH.png)
