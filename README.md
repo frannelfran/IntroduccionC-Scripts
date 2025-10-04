@@ -18,5 +18,9 @@ https://github.com/user-attachments/assets/25b1e7b5-2733-4473-bb53-646211cfab31
 
 **Script relacionado** -> [vector3.cs](./scripts/vector3.cs)
 
+3. Muestra en pantalla el vector con la posición de la esfera.
 
+https://github.com/user-attachments/assets/634ebe29-ed5c-4ef5-8c6d-6c95eed820c1
+
+**Script relacionado** -> [vector3.cs](./scripts/posicionEsfera.cs)
 
