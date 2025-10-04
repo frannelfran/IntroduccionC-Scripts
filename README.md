@@ -22,5 +22,5 @@ https://github.com/user-attachments/assets/25b1e7b5-2733-4473-bb53-646211cfab31
 
 https://github.com/user-attachments/assets/634ebe29-ed5c-4ef5-8c6d-6c95eed820c1
 
-**Script relacionado** -> [vector3.cs](./scripts/posicionEsfera.cs)
+**Script relacionado** -> [posicionEsfera.cs](./scripts/posicionEsfera.cs)
 
