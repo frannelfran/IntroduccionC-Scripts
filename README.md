@@ -28,7 +28,11 @@ https://github.com/user-attachments/assets/634ebe29-ed5c-4ef5-8c6d-6c95eed820c1
 
 ![Distancia](./images/distanciaCuboCilindro.png)
 
-
-
 **Script relacionado** -> [distanciaCuboCilindro.cs](./scripts/distanciaCuboCilidro.cs)
+
+5. Selecciona tres posiciones en tu escena a través de un objeto invisible (marcador) que incluya 3 vectores numéricos para configurar posiciones en las que quieres ubicar los objetos en respuesta a pulsar la barra espaciadora. Estos vectores representan un desplazamiento respecto a la posición original de cada objeto. Crea un script que ubique en las posiciones configuradas cuando el usuario pulse la barra espaciadora.
+
+https://github.com/user-attachments/assets/f372c8d3-dcc2-4d11-8935-719c86b4813a
+
+**Script relacionado** -> [moverAPosicion.cs](./scripts/moverAPosicion.cs)
 
