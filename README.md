@@ -24,3 +24,11 @@ https://github.com/user-attachments/assets/634ebe29-ed5c-4ef5-8c6d-6c95eed820c1
 
 **Script relacionado** -> [posicionEsfera.cs](./scripts/posicionEsfera.cs)
 
+4. Crea un script para la esfera que muestre en consola la distancia a la que están el cubo y el cilindro.
+
+![Distancia](./images/distanciaCuboCilindro.png)
+
+
+
+**Script relacionado** -> [distanciaCuboCilindro.cs](./scripts/distanciaCuboCilidro.cs)
+
