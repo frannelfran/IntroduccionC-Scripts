@@ -45,3 +45,28 @@ https://github.com/user-attachments/assets/0a97ec19-dc17-402d-8cab-7248e42cc944
 7. Mapea la tecla H a la función disparo.
 
 ![MapearH](./images/mapearH.png)
+
+8. Crea un script asociado al cubo que en cada iteración traslade al cubo una cantidad proporcional un vector que indica la dirección del movimiento: moveDirection que debe poder modificarse en el inspector.  La velocidad a la que se produce el movimiento también se especifica en el inspector, con la propiedad speed. Inicialmente la velocidad debe ser mayor que 1 y el cubo estar en una posición y=0. En el informe de la práctica comenta los resultados que obtienes en cada una de las siguientes situaciones:
+
+- Duplicas las coordenadas de la dirección del movimiento.
+
+https://github.com/user-attachments/assets/be7b7fe4-d077-420e-ac4b-8073c332c240
+
+
+- Duplicas la velocidad manteniendo la dirección del movimiento.
+
+https://github.com/user-attachments/assets/d99de61c-972a-4134-a07b-383a5ef0ffd7
+
+
+- La velocidad que usas es menor que 1
+
+https://github.com/user-attachments/assets/1f5dbed5-ca07-4025-bdb1-295382af554b
+
+- La posición del cubo tiene y>0
+
+https://github.com/user-attachments/assets/12f05a99-afdb-46db-b261-9843b36b35c8
+- Intercambiar movimiento relativo al sistema de referencia local y el mundial.
+**Script relacionado** -> [moverCubo.cs](./scripts/moverCubo.cs)
+
+
+
