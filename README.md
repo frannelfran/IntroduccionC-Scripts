@@ -65,8 +65,16 @@ https://github.com/user-attachments/assets/1f5dbed5-ca07-4025-bdb1-295382af554b
 - La posición del cubo tiene y>0
 
 https://github.com/user-attachments/assets/12f05a99-afdb-46db-b261-9843b36b35c8
+
 - Intercambiar movimiento relativo al sistema de referencia local y el mundial.
+
 **Script relacionado** -> [moverCubo.cs](./scripts/moverCubo.cs)
 
+9. Mueve el cubo con las teclas de flecha arriba-abajo, izquierda-derecha a la velocidad speed. Cada uno de estos ejes implican desplazamientos en el eje vertical y horizontal respectivamente. Mueve la esfera con las teclas w-s (movimiento vertical) a-d (movimiento horizontal).
+
+https://github.com/user-attachments/assets/57dca09a-1663-4ba7-a273-cd96625108e2
+
+
+**Scripts relacionados** -> [moverConTeclasEsfera.cs](./scripts/moverConTeclasEsfera.cs) y [moverConFlechasCubo](./scripts/moverConTeclasEsfera.cs)
 
 
