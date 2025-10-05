@@ -87,3 +87,9 @@ https://github.com/user-attachments/assets/52b549c3-7fda-4ff1-b4aa-d043dd7f496d
 https://github.com/user-attachments/assets/ae1add79-4b26-43ce-a09c-bb9abec48dfb
 
 **Script relacionado** -> [rotarCuboAEsfera.cs](./scripts/rotarCuboAesfera.cs)
+
+13. Utilizar el eje “Horizontal” para girar el objetivo y que avance siempre en la dirección hacia adelante.
+
+https://github.com/user-attachments/assets/39a41a60-68da-429f-874a-49c64bb4d124
+
+**Script relacionado** -> [movimientoCuboEjes.cs](./scripts/movimientoCuboEjes.cs)
