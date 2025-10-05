@@ -81,3 +81,9 @@ https://github.com/user-attachments/assets/57dca09a-1663-4ba7-a273-cd96625108e2
 https://github.com/user-attachments/assets/52b549c3-7fda-4ff1-b4aa-d043dd7f496d
 
 **Script relacionado** -> [moverCuboAEsfera.cs](./scripts/moverCuboAEsfera.cs)
+
+12. Adapta el movimiento en el ejercicio 6 de forma que el cubo gire hacia la esfera. Realiza pruebas cambiando la posición de la esfera mediante las teclas awsd
+
+https://github.com/user-attachments/assets/ae1add79-4b26-43ce-a09c-bb9abec48dfb
+
+**Script relacionado** -> [rotarCuboAEsfera.cs](./scripts/rotarCuboAesfera.cs)
