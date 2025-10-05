@@ -70,11 +70,14 @@ https://github.com/user-attachments/assets/12f05a99-afdb-46db-b261-9843b36b35c8
 
 **Script relacionado** -> [moverCubo.cs](./scripts/moverCubo.cs)
 
-9. Mueve el cubo con las teclas de flecha arriba-abajo, izquierda-derecha a la velocidad speed. Cada uno de estos ejes implican desplazamientos en el eje vertical y horizontal respectivamente. Mueve la esfera con las teclas w-s (movimiento vertical) a-d (movimiento horizontal).
+9. y 10. Mueve el cubo con las teclas de flecha arriba-abajo, izquierda-derecha a la velocidad speed. Cada uno de estos ejes implican desplazamientos en el eje vertical y horizontal respectivamente. Mueve la esfera con las teclas w-s (movimiento vertical) a-d (movimiento horizontal).
 
 https://github.com/user-attachments/assets/57dca09a-1663-4ba7-a273-cd96625108e2
 
-
 **Scripts relacionados** -> [moverConTeclasEsfera.cs](./scripts/moverConTeclasEsfera.cs) y [moverConFlechasCubo](./scripts/moverConTeclasEsfera.cs)
 
+11. Adapta el movimiento en el ejercicio 5 para que el cubo se mueva hacia la posición de la esfera. Debes considerar que el avance no debe estar influenciado por cuánto de lejos o cerca estén los dos objetos. 
 
+https://github.com/user-attachments/assets/52b549c3-7fda-4ff1-b4aa-d043dd7f496d
+
+**Script relacionado** -> [moverCuboAEsfera.cs](./scripts/moverCuboAEsfera.cs)
